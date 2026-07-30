@@ -1,8 +1,8 @@
 class Luvienne < Formula
   desc "Keyboard-driven SSH connection manager for the terminal"
   homepage "https://github.com/clintcan/luvienne"
-  url "https://github.com/clintcan/luvienne/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "9bc74fb32d8d5f17d5acfff5dacb546b53ddf5e8cffba0fe490ac19cfdfdd96f"
+  url "https://github.com/clintcan/luvienne/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "a54832e412b0d871cd89ddc6efc6c82f52f983a54156e37d4efbade6f9377576"
   license "Apache-2.0"
   head "https://github.com/clintcan/luvienne.git", branch: "main"
 
