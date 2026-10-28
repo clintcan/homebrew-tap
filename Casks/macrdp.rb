@@ -28,8 +28,10 @@ cask "macrdp" do
   ]
 
   caveats <<~EOS
-    Open macrdpController from /Applications to finish setup. It stores your
-    Mac password in the Keychain and starts the server at login.
+    macrdpController is a menu-bar app: opening it shows no window, only a
+    small display icon in the menu bar. Click it and choose
+    "Start (first run sets up)" to store your Mac password in the Keychain
+    and start the server at login.
 
     On first run, grant macrdp Screen Recording and Accessibility in
     System Settings > Privacy & Security.
