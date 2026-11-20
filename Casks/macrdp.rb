@@ -1,6 +1,6 @@
 cask "macrdp" do
-  version "0.10.6"
-  sha256 "bc75a15ef833449fc3ebf6987e029ba96d25d8269aff873bd4284901c6da4911"
+  version "0.10.7"
+  sha256 "29dc4b4f64b2c60613e2d6f8fc47bc6fde50f118dd0e6784e3684d744b83ab21"
 
   url "https://github.com/clintcan/macrdp/releases/download/v#{version}/macrdp-#{version}-usb.dmg"
   name "macrdp"
